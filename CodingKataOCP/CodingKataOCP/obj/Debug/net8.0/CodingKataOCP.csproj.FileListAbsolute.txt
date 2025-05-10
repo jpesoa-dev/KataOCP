@@ -1,0 +1,14 @@
+C:\Users\jpesoa\source\repos\CodingKataOCP\CodingKataOCP\obj\Debug\net8.0\CodingKataOCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpesoa\source\repos\CodingKataOCP\CodingKataOCP\obj\Debug\net8.0\CodingKataOCP.AssemblyInfoInputs.cache
+C:\Users\jpesoa\source\repos\CodingKataOCP\CodingKataOCP\obj\Debug\net8.0\CodingKataOCP.AssemblyInfo.cs
+C:\Users\jpesoa\source\repos\CodingKataOCP\CodingKataOCP\obj\Debug\net8.0\CodingKataOCP.csproj.CoreCompileInputs.cache
+C:\Users\jpesoa\source\repos\CodingKataOCP\CodingKataOCP\bin\Debug\net8.0\CodingKataOCP.exe
+C:\Users\jpesoa\source\repos\CodingKataOCP\CodingKataOCP\bin\Debug\net8.0\CodingKataOCP.deps.json
+C:\Users\jpesoa\source\repos\CodingKataOCP\CodingKataOCP\bin\Debug\net8.0\CodingKataOCP.runtimeconfig.json
+C:\Users\jpesoa\source\repos\CodingKataOCP\CodingKataOCP\bin\Debug\net8.0\CodingKataOCP.dll
+C:\Users\jpesoa\source\repos\CodingKataOCP\CodingKataOCP\bin\Debug\net8.0\CodingKataOCP.pdb
+C:\Users\jpesoa\source\repos\CodingKataOCP\CodingKataOCP\obj\Debug\net8.0\CodingKataOCP.dll
+C:\Users\jpesoa\source\repos\CodingKataOCP\CodingKataOCP\obj\Debug\net8.0\refint\CodingKataOCP.dll
+C:\Users\jpesoa\source\repos\CodingKataOCP\CodingKataOCP\obj\Debug\net8.0\CodingKataOCP.pdb
+C:\Users\jpesoa\source\repos\CodingKataOCP\CodingKataOCP\obj\Debug\net8.0\CodingKataOCP.genruntimeconfig.cache
+C:\Users\jpesoa\source\repos\CodingKataOCP\CodingKataOCP\obj\Debug\net8.0\ref\CodingKataOCP.dll
